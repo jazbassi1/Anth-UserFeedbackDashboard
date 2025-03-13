@@ -1,0 +1,46 @@
+//Conntains sample user feedback. 
+//Each entry includes fields such as an identifier, the feedback text, urgency, impact, and category.
+[
+    {
+      "id": 1,
+      "feedback": "Fix login error causing user drop-offs",
+      "urgency": 9,
+      "impact": 8,
+      "category": "Bug"
+    },
+    {
+      "id": 2,
+      "feedback": "Add dark mode for better user experience",
+      "urgency": 6,
+      "impact": 7,
+      "category": "Feature"
+    },
+    {
+      "id": 3,
+      "feedback": "Improve performance on data exports",
+      "urgency": 7,
+      "impact": 9,
+      "category": "Improvement"
+    },
+    {
+      "id": 4,
+      "feedback": "Include multi-language support",
+      "urgency": 5,
+      "impact": 7,
+      "category": "Feature"
+    },
+    {
+      "id": 5,
+      "feedback": "Streamline refund process",
+      "urgency": 10,
+      "impact": 8,
+      "category": "Refund"
+    },
+    {
+      "id": 6,
+      "feedback": "Enhance UI for better navigation",
+      "urgency": 4,
+      "impact": 6,
+      "category": "UI/UX"
+    }
+  ]
